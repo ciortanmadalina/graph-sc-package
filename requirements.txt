@@ -1,5 +1,5 @@
 setuptools==45.0.0
-torch==1.4.0
+torch
 scanpy==1.5.1 
 attrdict==2.0.1
 h5py==3.2.1
